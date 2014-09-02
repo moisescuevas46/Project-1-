@@ -25,3 +25,9 @@ div{
 border-color: #808000;
 border-width: 3px;
  }
+
+.column{
+    -webkit-column-count: 3;
+    column-count: 3;
+}
+}
