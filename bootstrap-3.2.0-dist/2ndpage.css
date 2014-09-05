@@ -1,0 +1,12 @@
+body{
+background-image: url('images/redhex.jpg') ;
+}
+
+header{
+		color: #808000;
+		font-family: 'Lato', sans-serif;
+		margin: 20px 20px 20px 20px;
+		text-decoration-line:black; 
+		text-align: center;
+		border:3px solid;
+	}
