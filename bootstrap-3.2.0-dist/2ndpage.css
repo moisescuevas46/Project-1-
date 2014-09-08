@@ -3,10 +3,39 @@ background-image: url('images/redhex.jpg') ;
 }
 
 header{
-		color: #808000;
 		font-family: 'Lato', sans-serif;
 		margin: 20px 20px 20px 20px;
-		text-decoration-line:black; 
+		text-decoration-line:; 
 		text-align: center;
 		border:3px solid;
+		border-color: #005C00;
 	}
+
+	p{
+	color: #808000;
+	font-family: 'Lato', sans-serif;
+	margin: 0px 0px 0px 0px;
+}
+div{
+	border-style: solid;
+	border-width: 5px;
+	border-bottom:0px solid;
+	padding:50px;
+}
+ .row{
+border-color: #808000;
+border-width: 3px;
+ }
+
+.column{
+    -webkit-column-count: 1;
+    column-count: 1;
+    border-color: #808000;
+border-width: 3px;
+color:#808000;
+}
+
+
+
+.......
+
